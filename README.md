@@ -36,4 +36,13 @@ It will be most important job of all the jobs as after gone through inspection b
 ![Git](Screenshots/14.PNG)
 ![Git](Screenshots/9.PNG)
 
+## RESULT
+Finally the following changes took place as we followed the above mentioned steps
+### TESTING SITE
+![Git](Screenshots/1.PNG)
+### PRODUCTION SITE (before merging)
+![Git](Screenshots/2.PNG)
+### PRODUCTION SITE (after merging)
+![Git](Screenshots/3.PNG)
+
 
