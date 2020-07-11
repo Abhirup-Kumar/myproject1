@@ -2,6 +2,8 @@
 Orchestration is the automated configuration, coordination, and management of computer systems and software.
 Project showing the concept of orchestration with a real world use case where first code written by developer have to be tested by QAT and only after testing deployed to our main website so that no problem occurs to production site of our company.
 
+My LinkedIn post Link: https://www.linkedin.com/feed/update/urn:li:activity:6687657607638900736 
+
 # Project Explanation
 In this project we are going to launch two containers with httpd server already installed on them .One container will be our QAT team server on which first any changes made by developer in developer branch will be launched. Another container will be our main production site on which only after passing testing by our QAT team changes will be made on it after that. It will all be automatic as we are using Jenkins as our CI/CD  tool and Docker as our container technology which is very fast for deployment purposes.
 We created various jobs to deal with this problem in step by step manner.
